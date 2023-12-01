@@ -1,0 +1,16 @@
+C:\Users\nikos\Desktop\c# level 1 projects\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\nikos\Desktop\c# level 1 projects\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\nikos\Desktop\c# level 1 projects\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\nikos\Desktop\c# level 1 projects\HangMan\HangMan\obj\Debug\HangMan.csproj.AssemblyReference.cache
+C:\Users\nikos\Desktop\c# level 1 projects\HangMan\HangMan\obj\Debug\HangMan.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikos\Desktop\c# level 1 projects\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\c# level 1 projects\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\nikos\Desktop\c# level 1 projects\HangMan\HangMan\obj\Debug\HangMan.pdb
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\HangMan\HangMan\bin\Debug\HangMan.exe.config
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\HangMan\HangMan\bin\Debug\HangMan.exe
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\HangMan\HangMan\bin\Debug\HangMan.pdb
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\HangMan\HangMan\obj\Debug\HangMan.csproj.AssemblyReference.cache
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\HangMan\HangMan\obj\Debug\HangMan.csproj.SuggestedBindingRedirects.cache
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\HangMan\HangMan\obj\Debug\HangMan.csproj.CoreCompileInputs.cache
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\HangMan\HangMan\obj\Debug\HangMan.exe
+C:\Users\nikos\Desktop\c# projects\c# level 1 projects\HangMan\HangMan\obj\Debug\HangMan.pdb
